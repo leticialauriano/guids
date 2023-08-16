@@ -1,0 +1,14 @@
+C:\Users\letic\Guids\bin\Debug\net7.0\Guids.exe
+C:\Users\letic\Guids\bin\Debug\net7.0\Guids.deps.json
+C:\Users\letic\Guids\bin\Debug\net7.0\Guids.runtimeconfig.json
+C:\Users\letic\Guids\bin\Debug\net7.0\Guids.dll
+C:\Users\letic\Guids\bin\Debug\net7.0\Guids.pdb
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.AssemblyInfoInputs.cache
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.AssemblyInfo.cs
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.csproj.CoreCompileInputs.cache
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.dll
+C:\Users\letic\Guids\obj\Debug\net7.0\refint\Guids.dll
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.pdb
+C:\Users\letic\Guids\obj\Debug\net7.0\Guids.genruntimeconfig.cache
+C:\Users\letic\Guids\obj\Debug\net7.0\ref\Guids.dll
